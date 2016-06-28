@@ -2,7 +2,7 @@
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
-You can play the game at: https://githubteacher.github.io/github-games/
+You can play the game at: https://tl151006.github.io/github-games/
 
 Here is how you play the game:
 1. Press the space bar to get started.
